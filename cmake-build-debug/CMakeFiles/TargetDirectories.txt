@@ -1,0 +1,3 @@
+C:/sirbochocho/Universidad/PS2024/EDD/bubbleSort-Lab0602/cmake-build-debug/CMakeFiles/bubbleSort_Lab0602.dir
+C:/sirbochocho/Universidad/PS2024/EDD/bubbleSort-Lab0602/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/sirbochocho/Universidad/PS2024/EDD/bubbleSort-Lab0602/cmake-build-debug/CMakeFiles/rebuild_cache.dir
