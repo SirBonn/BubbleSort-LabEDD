@@ -26,7 +26,7 @@ int main() {
     cout << "\nDesp de ordenar" << std::endl;
 
     for (int i = 0; i < maxLenght; ++i) {
-        cout<< i+1 <<") [" << toOrder[i]<< "] ";
+        cout<<"[" << toOrder[i]<< "] ";
     }
 
     return 0;
