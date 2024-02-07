@@ -1,0 +1,1 @@
+La complejidad del algoritmo es O(n²) debido a que nos presenta un for dentro de otro for, por lo que se accesa a memoria n*n veces
